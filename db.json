@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Malik Ertuğrul",
+            "department": "IT",
+            "salary": "7000"
+        },
+        {
+            "id": 2,
+            "name": "Ali Veli",
+            "department": "Sales",
+            "salary": "5000"
+        },
+        {
+            "id": 3,
+            "name": "Mehmet Hasan",
+            "department": "Banking",
+            "salary": "9000"
+        }
+
+    ]
+}
